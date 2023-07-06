@@ -5,10 +5,10 @@ Use simple Python3 API interface to operate Note.ms pages.
  - [Install](#install)
  - [Import](#import)
  - [APIs](#apis)
-   - [notemslib.NoteMS](#notemslib.notems)
-   - [NoteMS.write](#NoteMS.write)
-   - [NoteMS.load](#notems.load)
-   - [NoteMS.close](#notems.close)
+   - [notemslib.NoteMS](##notemslib.notems)
+   - [NoteMS.write](##notems.write)
+   - [NoteMS.load](##notems.load)
+   - [NoteMS.close](##notems.close)
 
 # Install
 As this project depends on selenium, you need to install selenium and webdriver first.
